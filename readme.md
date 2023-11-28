@@ -1,8 +1,6 @@
 # Happy gitting everyone!
 
-This is markdown readme file.
-
-You can add images here as in any other markdown document:
+welcome everyone to git!
 
 ![Lake Olallie in October 2022](olallie.jpg)
 
